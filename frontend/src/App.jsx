@@ -23,7 +23,7 @@ function App() {
     setTier3([]);
 
     try {
-      const response = await fetch('/recommend', {
+      const response = await fetch('https://pm-internship-backend-qbdn.onrender.com/recommend', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
