@@ -1,0 +1,4 @@
+internship_id,company_name,title,sector,required_skills,required_education,location,stipend,apply_link
+INT-TEST-001,Tech Mahindra (Demo),Software Engineer Intern,Information Technology,"Python, Java, HTML, CSS",B.Tech,Maharashtra,15000,https://pminternship.mca.gov.in/login/
+INT-TEST-002,TCS (Demo),Data Analyst Intern,Data Science & Analytics,"SQL, Excel, Python",B.Sc,Delhi,20000,https://pminternship.mca.gov.in/login/
+INT-TEST-003,Reliance Retail (Demo),Marketing Intern,Marketing & Advertising,"Communication, Social Media, SEO",BBA,Gujarat,12000,https://pminternship.mca.gov.in/login/
